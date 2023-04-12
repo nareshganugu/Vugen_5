@@ -1,0 +1,21 @@
+Virtual User Script started at: 4/11/2023 12:25:11 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.2.0 for Windows 10; build 692 (Oct 18 2021 11:59:59)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\NGanugu1\OneDrive - T-Mobile USA\Desktop\Vugen_Github\Test_Script\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(5): Notify: Transaction "T01_Test" started.
+Action.c(8): Successfully edited
+Action.c(11): Notify: Transaction "T01_Test" ended with a "Fail" status (Duration: 0.0312).
+Action.c(11): Notify: Transaction "T01_Test" has 0 error message(s).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
