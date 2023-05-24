@@ -2,13 +2,13 @@ Action()
 {
 	
 	
-	lr_start_transaction("T01_'Test_Message");
+	lr_start_transaction("T01_'Test_Messages");
 	
 
 	lr_output_message("Successfully edit");
 	
     
-   lr_end_transaction("T01_'Test_Message", LR_AUTO);
+   lr_end_transaction("T01_'Test_Messages", LR_AUTO);
 
    	
 
