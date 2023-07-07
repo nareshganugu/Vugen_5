@@ -56,7 +56,7 @@ Order="S01_SCEE_TC03_Check_Eligibility"
 [StateManagement]
 LastReplayStatus=0
 [ActiveReplay]
-LastReplayedRunName=
-ActiveRunName=
+LastReplayedRunName=result1
+ActiveRunName=result1
 [Transactions]
 S01_SCEE_TC03_Check_Eligibility=
