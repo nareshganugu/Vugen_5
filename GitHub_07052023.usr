@@ -52,11 +52,11 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="S01_SCEE_TC03_Check_Eligibility"
+Order="T03"
 [StateManagement]
 LastReplayStatus=0
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
-S01_SCEE_TC03_Check_Eligibility=
+T03=
