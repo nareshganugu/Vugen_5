@@ -1,11 +1,11 @@
 Action()
 {
 	
-	lr_start_transaction("T01");
+	lr_start_transaction("T02");
 	
 	lr_output_message("Hello TMobile, {p_MSIDN}");
 	
-	lr_end_transaction("T01", LR_AUTO);
+	lr_end_transaction("T02", LR_AUTO);
 
 
 	
