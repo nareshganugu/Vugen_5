@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VugenScriptMetadata>
-  <ScriptName>LR_GitHub_07102023</ScriptName>
+  <ScriptName>GitHub_07052023</ScriptName>
   <Protocol>Web - HTTP/HTML</Protocol>
   <ActionFiles>
     <FileEntry Name="vuser_init.c" Filter="2" />

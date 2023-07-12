@@ -1,7 +1,7 @@
 Action()
 {
 		
-		lr_start_transaction("T01");
+		lr_start_transaction("T02");
 
 		web_rest("GET: http://www.tmo.com",
 		"URL=http://www.tmo.com",
@@ -9,7 +9,7 @@ Action()
 		"Snapshot=t117709.inf",
 		LAST);
 		
-		lr_end_transaction("T01", LR_AUTO);
+		lr_end_transaction("T02", LR_AUTO);
 
 	
 	
